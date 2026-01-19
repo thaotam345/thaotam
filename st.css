@@ -1,4 +1,18 @@
 .f1 {
   color: pink;
-  
+  margin-top: 18pt;
+  margin-bottom: 12pt;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial;
 }
+.f2
+{
+   color: black;
+  margin-top: 6pt;
+  margin-bottom: 6pt;
+   font-size: 15px;
+  font-style: normal;
+  font-family: Arial;
+}
+  
